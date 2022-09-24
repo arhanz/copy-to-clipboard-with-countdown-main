@@ -1,0 +1,29 @@
+.copyBtn{
+    padding: 6px;
+    width: 10%;
+    border: 2px solid red;
+    margin-top: 5px;
+    background: red;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 1.5s;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.copyBtn:hover{
+    border: 2px solid red;
+    color: red;
+    background: #fff;
+}
+#key{
+    font-size: 20px;
+}
+.copyAllSection{
+    display: flex;
+    margin-top: 20px;
+}
+.boxes{
+    display: flex; 
+}
